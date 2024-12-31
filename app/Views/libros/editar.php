@@ -6,6 +6,6 @@
     <title>Document Title</title>
 </head>
 <body>
-    
+    Formulario de editar
 </body>
 </html>
