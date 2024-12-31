@@ -11,7 +11,7 @@ https://www.youtube.com/@Develoteca
 **Duración de la práctica:**
 Un día.
 
-## Requisitos:
+## Recursos utilizados:
 
  - XAMPP v3.2.4
  - PHP v8.0.0
@@ -38,6 +38,13 @@ https://www.youtube.com/@Develoteca
 
 **Practice Duration:**
 One day.
+
+## Used resources:
+
+ - XAMPP v3.2.4
+ - PHP v8.0.0
+ - Codeigniter v4.1.1
+ - Bootstrap 4.6.2
 
 ## Instructions
 
