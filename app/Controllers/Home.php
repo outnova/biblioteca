@@ -6,6 +6,7 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('libros/listar');
+		return $this->response->redirect(site_url('/listar'));
+		//return view('libros/listar');
 	}
 }
